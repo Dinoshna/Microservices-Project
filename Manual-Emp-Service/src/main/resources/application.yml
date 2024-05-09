@@ -1,2 +1,13 @@
 server:
-  port: 9090
+  port: 8902
+
+spring:
+  application:
+    name: Employee-service
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+logging:
+  pattern:
+    file:

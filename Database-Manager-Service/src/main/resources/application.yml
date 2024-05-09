@@ -1,0 +1,24 @@
+server:
+  port: 2022
+spring:
+  application:
+    name: Database-Manager-Service
+  datasource:
+    url: jdbc:h2:mem:test
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database-platform: org.hibernate.dialect.H2Dialect
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+logging:
+   pattern:
+     file:
+
+
