@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Database-Manager-Service/Database-Manager-Service.iml" filepath="$PROJECT_DIR$/Database-Manager-Service/Database-Manager-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Registry/Eureka-Registry.iml" filepath="$PROJECT_DIR$/Eureka-Registry/Eureka-Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manual-Emp-Service/Manual-Emp-Service.iml" filepath="$PROJECT_DIR$/Manual-Emp-Service/Manual-Emp-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservices-Project.iml" filepath="$PROJECT_DIR$/.idea/Microservices-Project.iml" />
+    </modules>
+  </component>
+</project>
