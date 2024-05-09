@@ -1,4 +1,4 @@
-package com.web.sample.poc.ManualEmpService;
+package com.web.sample.poc.emp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.web.sample.poc.ManualEmpService;
+package com.web.sample.poc.emp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
