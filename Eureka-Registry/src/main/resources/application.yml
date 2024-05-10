@@ -6,4 +6,4 @@ eureka:
     fetch-registry: false
     register-with-eureka: false
 
-    ## all the above properties are auto configured in springBoot app after adding dependency
+#all the above properties are auto configured in springBoot app after adding dependency
